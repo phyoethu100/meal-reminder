@@ -1,2 +1,1 @@
-# meal-reminder
-Meal reminder alarm clock
+# Meal reminder alarm clock
